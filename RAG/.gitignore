@@ -33,6 +33,8 @@ ENV/
 
 # Environment variables
 .env
+# local test
+test.py
 
 # Vector store
 itzy_vector_store/ 

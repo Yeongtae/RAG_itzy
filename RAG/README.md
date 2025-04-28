@@ -42,6 +42,31 @@ OPENAI_API_KEY=your_api_key_here
 python rag_itzy.py
 ```
 
+## 실행 결과
+```
+RAG 테스트 결과:
+(한국어)
+질문: ITZY는 언제 데뷔했나요?
+답변: Itzyは2019年2月12日にデビューしました。
+
+질문: ITZY의 멤버는 누구인가요?
+답변: ITZY의 멤버는 Yeji, Lia, Ryujin, Chaeryeong, Yuna로 구성되어 있습니다.
+
+질문: ITZY의 대표곡은 무엇인가요?
+답변: ITZY의 대표곡은 "달라달라 (Dalla Dalla)"입니다.
+
+(일본어)
+질문: ITZYはいつデビューしましたか?
+답변: Itzyは2019年2月12日にデビューしました。
+
+질문: ITZYのメンバーは誰ですか?
+답변: ITZYのメンバーはYeji、Lia、Ryujin、Chaeryeong、Yunaの5人です。
+
+질문: ITZYの代表曲は何ですか?
+답변: 代表曲は「Dalla Dalla」です
+```
+
+
 ## 프로젝트 구조
 
 - `rag_itzy.py`: 메인 실행 파일
